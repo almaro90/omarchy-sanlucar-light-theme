@@ -1,0 +1,37 @@
+# Sanlúcar Light — light theme inspired by Sanlúcar de Barrameda:
+# beach sand and whitewash, Doñana pines across the river, the brown-green
+# Guadalquivir, manzanilla gold, river-mouth sunsets and Doñana flamingos.
+mode = "light"
+
+accent = "#2F6B4F"              # Doñana pine
+selection = "#DCCFB2"           # albero
+muted = "#B3A68C"
+
+background = "#FAF4E6"          # beach sand / whitewash
+dark_background = "#F0E8D6"
+darker_background = "#E4D9C2"
+lighter_background = "#EEE5D1"
+
+foreground = "#1E2B25"          # pine shadow
+dark_foreground = "#857C69"
+light_foreground = "#3F4B43"
+bright_foreground = "#121C17"
+
+hyprland_active_border = "rgba(2f6b4fee) rgba(2a7f7aee) 45deg"
+hyprland_inactive_border = "rgba(b3a68caa)"
+
+red = "#B8432F"                 # sunset over the river mouth
+yellow = "#A88412"              # manzanilla
+orange = "#C96F2A"              # dusk
+green = "#5B7F2B"               # marshland
+cyan = "#2A7F7A"                # Guadalquivir
+blue = "#2F6497"                # Atlantic
+magenta = "#B9527A"             # flamingo
+brown = "#7A5430"               # sherry cask
+
+bright_red = "#D0583F"
+bright_yellow = "#C29A1E"
+bright_green = "#6F9637"
+bright_cyan = "#3A9A93"
+bright_blue = "#4A80B4"
+bright_magenta = "#CF6A91"

@@ -1,0 +1,12 @@
+Backgrounds
+
+0-pixel-sanlucar-light.png  Pixel art made for this theme.
+
+The photos below come from Wikimedia Commons and were cropped to 16:9.
+Each keeps its original license. Source page: https://commons.wikimedia.org/wiki/File:<original name>
+
+File                        Original name                                   Author      License
+1-donana-dunes.jpg          Pinar de Hinojos, Parque Natural de Doñana.jpg  Aaroncm95   CC BY-SA 3.0 ES
+2-bajo-de-guia-beach.jpg    Bajo de Guía Sanlúcar Barrameda.JPG             Hispalois   CC BY-SA 3.0
+3-guadalquivir-boats.jpg    Bajo guia 2017001.jpg                           Anual       CC BY-SA 4.0
+4-salinas-de-bonanza.jpg    Salinas de Bonanza.jpg                          Artistsbox  CC BY-SA 4.0
