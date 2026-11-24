@@ -33,4 +33,4 @@ Window borders run from Doñana green to Guadalquivir teal. Icons use Yaru-sage.
 
 ## Backgrounds
 
-The default is a pixel-art view of the river mouth. The others are photos from Wikimedia Commons, released under CC BY-SA. Sources and licenses are listed in [CREDITS.txt](CREDITS.txt).
+The default is a pixel-art view of the river mouth. There is also a painted view of the same scene made for this theme. The rest are photos from Wikimedia Commons, released under CC BY-SA. Sources and licenses are listed in [CREDITS.txt](CREDITS.txt).
